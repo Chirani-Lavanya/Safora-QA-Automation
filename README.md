@@ -26,7 +26,7 @@ This automation script performs the following actions:
 Name: Chira Lava  
 Email: chira.lava@test.com  
 Phone: 0771234567  
-Message: Our company is exploring workplace safety solutions.Please contact us with more details
+Message: Our company is exploring workplace safety solutions.
 
 ## Expected Result
 The following success message should appear:
