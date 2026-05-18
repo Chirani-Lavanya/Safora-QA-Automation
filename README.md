@@ -24,7 +24,7 @@ This automation script performs the following actions:
 
 ## Test Data Used
 Name: Chira Lava  
-Email: chira.lava@test.com , chira@test.com
+Email: chira.lava@test.com , chira@test.com  
 Phone: 0771234567  
 Message: Our company is exploring workplace safety solutions.
 
